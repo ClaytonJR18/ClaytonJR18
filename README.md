@@ -1,4 +1,8 @@
-### Hi there 👋
+### Sejam bem-vindos ao meu GitHub.
+Aqui irei postar todos meus projetos desenvolvidos durante a minha carreira profissional e pessoal támbem.
+
+No momento estoa aprendendo Desenvolvimento Web, E estou sempre a procura de conhecimentos para me qualificar
+ainda mais para o mercado de trabalho.
 
 <!--
 **ClaytonJR18/ClaytonJR18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
