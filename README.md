@@ -1,7 +1,7 @@
 ### Sejam bem-vindos ao meu GitHub.
-Aqui irei postar todos meus projetos desenvolvidos durante a minha carreira profissional e pessoal támbem.
+Aqui irei postar todos meus projetos desenvolvidos durante a minha carreira profissional e pessoal também.
 
-No momento estoa aprendendo Desenvolvimento Web, E estou sempre a procura de conhecimentos para me qualificar
+No momento estou aprendendo Desenvolvimento Web, E estou sempre a procura de conhecimentos para me qualificar
 ainda mais para o mercado de trabalho.
 
 <!--
